@@ -1,0 +1,277 @@
+
+@font-face {
+    font-family: 'My Custom Font';
+    src: url('https://c.s-microsoft.com/static/fonts/segoe-ui/west-european/Semibold/latest.woff2');
+}
+.h1custom{
+    font-family: 'My Custom Font';
+    font-size: 35px;
+}
+.pclass{
+    color: #acacac;
+}
+h1{
+    font-family: 'My Custom Font';
+}
+h2{
+font-family: 'My Custom Font';;
+}
+body{
+    font-family:'My Custom Font';
+}
+.headerdiv{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.Mdiv{
+    display:flex ;
+    padding-left: 5%;
+    padding-top: 0.2%;
+    align-items: center;
+}
+a{
+    background-color: transparent;
+    color: rgb(55, 54, 54);
+    text-decoration: none;
+    margin: 10px;
+}
+.uldiv{
+    display: flex;
+}
+.buy{
+    background-color: white;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 8px;
+    width: 80px;
+    height: 32px;
+    text-align: center;
+    margin: 10px 20px;
+}
+.Persondiv{
+    padding-right: 3%;
+    padding-top: 0.6%;
+}
+.bodydiv{
+    background: linear-gradient( hsla(240, 93%, 94%, 0.996) , white);
+    text-align: center;
+    width: 100%;
+}
+.Mh1{
+  background: -webkit-linear-gradient( rgb(254, 80, 80), rgb(78, 78, 240));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip:text;
+  font-weight:300;
+}
+.link{
+    color: #4e4ef0;
+    display: block;
+    margin-top: 20px;
+}
+.a{
+    margin: 30px;
+}
+.middle .buttons .organization{
+    display: flex;
+    background-color: white;
+    border: none;
+    margin-top: 12.1%;
+    padding: 2% 6%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 32%;
+    box-shadow: 15px 0 10px -5px rgba(0,0,0,0.2);
+    justify-content: center;
+    height: 16%;
+
+}
+.middle{
+    padding: 1% 10%;
+}
+.middle .buttons{
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.middle .buttons .organization h2{
+    color: #4854ec;
+}
+.middle .buttons .homme{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    background-color: white;
+    border: none;
+    margin-top: 12.1%;
+    margin-left: 9%;
+    padding: 2% 6%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    box-shadow: 15px 0 10px -5px rgba(0,0,0,0.2);
+    width: 32%;
+    justify-content: center;
+    height: 16%;
+
+}
+.middle .buttons .homme h2{
+    color: #4e4ef0;
+}
+.middle .buttons .education{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    background-color: white;
+    border: none;
+    margin-top: 12.1%;
+    margin-left: 9%;
+    padding: 2% 6%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    box-shadow: 15px 0 10px -5px rgba(0,0,0,0.2);
+    width: 32%;
+    justify-content: center;
+    height: 16%;
+}
+.middle .buttons .education h2{
+    color: #4e4ef0;
+}
+.first{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 3%;
+}
+.main{
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0.2), 0 0px 20px 0 rgba(0,0,0,0.19) , 0 0px 0px 0 rgba(0,0,0,0.19);  
+    margin: 0px;
+    background-image: linear-gradient(white , #f9f9f9);
+}
+.div1{
+    width: 100%;
+}
+.image{
+    padding: 0% 1.5%;
+}
+.second{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.secondp{
+    padding: 5%;
+}
+.divthird{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.thirdp{
+    
+    padding-top: 5%;
+}
+.divforth{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.forthp{
+    padding: 5%;
+}
+.fifth{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.fifthp{
+    padding: 8% ;
+}
+.last{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.lastp{
+    padding-top: 4%;
+}
+.footer{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.footerp{
+    margin: 7% 0%;
+}
+.footer .footerp h1{
+    background: -webkit-linear-gradient( rgb(254, 80, 80), rgb(78, 78, 240));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip:text;
+  font-weight:300;
+    
+}
+.fp{
+    text-align: center;
+    
+}
+.fdiv2{
+    padding-top: 3%;
+}
+.sdiv2{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 8%;
+}
+.thdiv2{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 5%;
+}
+.fdiv2{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 5%;
+}
+.ldiv2{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 5%;
+}
+.footerbutton{
+    text-align: center;
+}
+.fb{
+    text-align: center;
+    margin: 0% 4%;
+    background-color: whitesmoke;
+    width: 13%;
+    border-radius: 32px;
+    border: none;
+    margin-bottom: 4%;
+}
+.fdp{
+    text-align: center;
+}
+.fdiv3{
+    padding-top: 3%;
+}
+@media screen and (max-width: 1196px)  {
+    .organization h2{
+        display: none;
+    }
+    .homme h2{
+        display: none;
+    }
+    .education h2{
+        display: none;
+    }
+    
+}
